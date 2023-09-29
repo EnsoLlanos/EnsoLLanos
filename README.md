@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## ¡Hola, soy [Enso]! 👋
 
 Soy un estudiante apasionado de Computación e Informática 🖥️, proveniente de Perú 🇵🇪, con un hambre  por el conocimiento y un firme compromiso con el mundo de la tecnología 🚀.
